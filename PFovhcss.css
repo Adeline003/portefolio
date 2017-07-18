@@ -16,6 +16,7 @@ background-size:cover;
 }
 
 table#tableau {
+  color: #F0F8FF;
   font-family: arial;
   font-size: 11px;
   color: #333333;
@@ -28,6 +29,7 @@ table#tableau {
 }
 
 table#tableau th {
+  color: #F0F8FF;
   border-width: 1px;
   padding: 8px;
   border-style: solid;
@@ -37,6 +39,7 @@ table#tableau th {
   height:60px;
 }
 table#tableau td {
+  color:#F0F8FF;
   border-width: 1px;
   padding: 8px;
   border-style: solid;
@@ -50,7 +53,7 @@ table#tableau td {
 font-style : italic;
 text-align: center;
 border-bottom:1px dashed ##F0F8FF;
- font color=withe;
+color: #00FFFF;
  }
 
 #titre2{
